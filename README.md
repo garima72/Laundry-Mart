@@ -32,34 +32,6 @@ Laundry-Mart/
 │── README.md
 ```
 
-## 🚀 How to Run
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/yourusername/laundry-mart.git
-```
-
-2. Open the project folder.
-
-3. Double-click `index.html`
-
-OR
-
-Open the project using **VS Code** and run it with the **Live Server** extension.
-
-## 📸 Preview
-
-_Add a screenshot of your webpage here._
-
-Example:
-
-```
-images/screenshot.png
-```
-
-or simply upload the screenshot in the repository and display it using Markdown.
-
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
